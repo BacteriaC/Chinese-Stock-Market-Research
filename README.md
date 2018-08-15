@@ -1,10 +1,10 @@
 # Chinese-Stock-Market-Research
 This is a research project about Chinese Stock Market, will be continuously maintained until I finish my Master graduate thesis.
 
-Technique used:
-Python Programming
-Python Web-scraping
-SQL Database
+Technique used: </br>
+Python Programming </br>
+Python Web-scraping </br>
+SQL Database </br>
 
 Goal:
 1. Dataset: create a dataset with abundant stock market information
